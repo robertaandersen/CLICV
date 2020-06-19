@@ -1,0 +1,29 @@
+______________       ______        ______            ________              
+___  ____/__(_)_________  /_______ ___  /_________  ____  __/_____ _       
+__  __/  __  /__  __ \_  //_/  __ `/_  /_  _ \_  / / /_  /_ _  __ `/_______
+_  /___  _  / _  / / /  ,<  / /_/ /_  / /  __/  /_/ /_  __/ / /_/ /_/_____/
+/_____/  /_/  /_/ /_//_/|_| \__,_/ /_/  \___/_\__, / /_/    \__,_/         
+                                             /____/                        
+       _____      ________       
+_________  /_________  __/_____ _
+__  ___/  __/  __ \_  /_ _  __ `/
+_(__  )/ /_ / /_/ /  __/ / /_/ / 
+/____/ \__/ \____//_/    \__,_/  
+
++------------+------------------------------------+                                                                 
+|What        |  System admin / IT support         |                                                    
++------------+------------------------------------+                                                    
+|When        |  Mai, 2012 - Jan, 2013             |                                                    
++------------+------------------------------------+                                                    
+
+I initially got this job as a part of a summer job program for university students. My 
+responsibilities were writing an internal web for their staff with a message board, news 
+sections, announcements, photo albums etc. It was requested that I did so in Drupal. They 
+also release a monthly newsletter electronically which was also a part of my day to day. 
+So a lot of sysadmin stuff, setting up LAMP servers, rebooting machines, making sure disks 
+didn’t run out of space etc. Also a part of the job was first level IT support for their 
+staff.  
+
+I had severe impostor syndrome as this was my first job and I was just a student, but the 
+people there were lovely and offered me to stay on part time with them after my tenure ran 
+its course which I did. 

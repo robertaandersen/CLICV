@@ -1,0 +1,23 @@
+________________                    _____        
+___    |_____  /__   _______ __________(_)_____ _
+__  /| |  __  /__ | / /  __ `/_  __ \_  /_  __ `/
+_  ___ / /_/ / __ |/ // /_/ /_  / / /  / / /_/ / 
+/_/  |_\__,_/  _____/ \__,_/ /_/ /_//_/  \__,_/  
+                                                         
+        
++------------+------------------------------------+                                                                 
+|What        |  Software specialist               |                                                    
++------------+------------------------------------+                                                    
+|When        |  Jan, 2013 - Feb, 2015             |                                                    
++------------+------------------------------------+                                                    
+
+Working at Advania was a big opportunity for me as it was my first job working primarily as a programmer. 
+I got very exciting assignments right away where I worked on critical infrastructure software for law 
+enforcement and manufacturing monitoring systems for an Aluminium smelter under the guidance of experienced 
+programmers. It was very interesting to get exposure to things like distributing software as desktop clients, 
+using SVN as version control etc. Things which you hardly see anymore. Many things were changing when I was 
+there, such as migrating towards writing web based clients in favour of old fat clients. As the projects 
+where often the results of tenders won it was crucial to bring them home and on budget. 
+
+Many people do not realize that programmers at Advania are under very tight discipline in that regard. Being 
+exposed to this taught me a lot about how to plan and value my time. 

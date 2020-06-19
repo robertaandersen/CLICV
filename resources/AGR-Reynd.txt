@@ -1,0 +1,25 @@
+                 .%%%                 
+              .%%%%%%%%%%%                   _______________________                ________                    _________
+          ,%%%%%%%%%%%%%%%%%%%               ___    |_  ____/__  __ \               ___  __ \_________  ______________  /
+      ,%%%%%%%%%%%%%%%%%%%%%%%%%%%           __  /| |  / __ __  /_/ /  ________     __  /_/ /  _ \_  / / /_  __ \  __  / 
+    ,%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%         _  ___ / /_/ / _  _, _/   _/_____/     _  _, _//  __/  /_/ /_  / / / /_/ /  
+    ,%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%         /_/  |_\____/  /_/ |_|                 /_/ |_| \___/_\__, / /_/ /_/\__,_/   
+    ,%%%%%   %%%(   /*   %%  .    %%                                                             /____/                   
+    ,%%%%  %  %%  %%.     %  %%   %%         +------------+------------------------------------+                                                                 
+    ,%%%       %   %%%/  (%  *  %%%%         |What        |  Software specialist               |                                                    
+    ,%%,,#%%%%,,%%%,  /%%%%,,%%,,,%%         +------------+------------------------------------+                                                    
+    ,%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%         |When        |  Feb, 2015 - Jun, 2016             |                                                    
+      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%          +------------+------------------------------------+                                                    
+          %%%%%%%%%%%%%%%%%%%%%                                                                                                                                                                    
+              %%%%%%%%%%%%%                                                                                                                                                                                         
+                  %%%%%                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                           
+I knew the CEO of Reynd and he mentioned to me that he was looking for an app developer for their Android app which relayed 
+information from Microsoft NAV in an app format. I had no experience with Android development but I jumped at the chance. 
+As a bonus they had a small admin app written in AngularJS which was my first experience with a modern JavaScript framework. 
+A year later the company merged with AGR which was mainly interested in the NAV service business, so the app kind of lost 
+focus. Having invested a lot of time and effort training as a android developer I decided to leave AGR when an opportunity 
+at Stokkur presented itself. I had been drifting towards .NET backend development and Angular frontend in their main 
+inventory product. AGR had really advanced processes and to date remains the only company I’ve worked at which did scrum by 
+the book. The team was very disciplined, test coverage was the highest I’ve seen. Experimenting with different methodologies 
+was encouraged such as pair programming. Again, a very good learning experience.

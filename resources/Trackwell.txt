@@ -1,0 +1,32 @@
+                                                  
+            #################                     
+        ###########   ###########                 ________                   ______                ___________
+      ############     #########(                 ___  __/____________ _________  /____      _________  /__  /
+    #############         ##(                     __  /  __  ___/  __ `/  ___/_  //_/_ | /| / /  _ \_  /__  / 
+   ##############       ########(                 _  /   _  /   / /_/ // /__ _  ,<  __ |/ |/ //  __/  / _  /  
+  ###############,     .###############           /_/    /_/    \__,_/ \___/ /_/|_| ____/|__/ \___//_/  /_/   
+ ################       ################          
+ ################       ################          +------------+------------------------------------+
+ ################       ################          |What        |  Senior developer                  |
+  ##############(       *##############           +------------+------------------------------------+
+   #############         #############            |When        |  Jun, 2017 - Present               |
+    ############         ############             +------------+------------------------------------+
+      #############################               
+        #########################                 
+            (###############(                     
+                                                  
+Working at Trackwell for the past 3 years has been a different challenge then the previous work places I’ve been at. 
+Most of the leadership and key personnel has been with trackwell for a decade or more. When I started there were a lot 
+of ‘self fulfilling’ prophecies which needed challenging. In many ways it is a very challenging work environment where 
+we must deal with a lot of fixed notions along with legacy code which needs to be optimized and modernized. All this must 
+be done while meeting a continuous demand of keeping our billable hours up. It is also a small company and each developer
+is required to be a 'jack of all trades' without comprimizing standards or quality.
+
+Simplifying our build process, containerization, automation, improving work processes, training new employees have all been 
+among my duties there. I and other team members have gone out of our way and done a lot of heavy lifting to migrate the code 
+to a place where we are finally able to eliminate manual steps in building and deploying, able to run our code at scale along 
+with necessary improvement both to our codebase and means of operation.
+
+I am very proud to have been a key part of the VMS team’s journey for the past three years and believe I have managed to 
+influence the team in a positive manner and done a lot towards moving our systems on a forward direction in a sustainable 
+manner in spite of ever growing complexity and number of customers. 
