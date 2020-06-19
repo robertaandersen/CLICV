@@ -15,9 +15,18 @@
             ((((/(((/(((/(((/((((*                
            /((((/(((((((/((((/                    
                                                   
-At Stokkur my main responsibility was native android development however we were short on backend developers 
-and since I had some experience in that department I  volunteered to work on the backend for the CCP companion app.
-It was my first exposure to a service that had users in the tens of thousands at any given moment. Also queues and 
-microservices were new for me. An awesome learning experience and we took great pride in the backend which ended up 
-very efficient and stable. Working with Raquelita which has in the meantime been promoted to CEO and the CTO Halldór 
-was truly a pleasureable learning experience.
+At Stokkur my main responsibility was native android development. As it turned out however, we
+were short on backend developers and since I had some experience in that department I
+volunteered to work on the backend for the CCP companion app. It was my first exposure to a
+service that had users in the tens of thousands at any given moment. Also queues and
+microservices were new for me. An awesome learning experience and we took great pride in
+the backend which ended up very efficient and stable. 
+
+Another project there which led was creating a self service kiosk app for a chain of car washes. 
+Stokkur had a rigid QA process which required scoping and organizing such a big project from 
+scratch, analysing potential bottlenecks and complications to be able to anticipate. The project 
+went well. I should however wash my car more frequently. 
+
+I worked closely with Raquelita which has in the meantime been promoted to CEO and the CTO Halldór 
+which was then lead backend programmer. I would have stayed on at Stokkur for longer than I did, 
+but as fate would have it we parted ways. 
