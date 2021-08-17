@@ -1,7 +1,7 @@
 # Command line interface Resume
 
 ## Running
-To run this as a docker ```docker run -it robertreynisson/clicv``` should do the trick. 
+To run this as a docker ```docker run -it robertaandersen/clicv``` should do the trick. 
 
 ## About
 
