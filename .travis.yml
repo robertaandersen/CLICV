@@ -5,5 +5,5 @@ services:
 
 script:
   - docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD  
-  - docker build -t robertreynisson/clicv .
-  - docker push robertreynisson/clicv
+  - docker build -t robertaandersen/clicv .
+  - docker push robertaandersen/clicv
